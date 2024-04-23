@@ -21,7 +21,7 @@
                       "connect"             : "1.x",
                       "clean-css"           : "0.3.2",
                       "uglify-js"           : "1.2.5",
-                      "formidable"          : "1.0.9",
+                      "formidable"          : "3.2.4",
                       "log4js"              : "0.4.1",
                       "jsdom-nocontextifiy" : "0.2.10",
                       "async-stacktrace"    : "0.0.2",
