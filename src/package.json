@@ -20,7 +20,7 @@
                       "express"             : "2.5.x",
                       "connect"             : "1.x",
                       "clean-css"           : "4.1.11",
-                      "uglify-js"           : "1.2.5",
+                      "uglify-js"           : "2.6.0",
                       "formidable"          : "3.2.4",
                       "log4js"              : "6.4.0",
                       "jsdom-nocontextifiy" : "0.2.10",
